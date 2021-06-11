@@ -2164,19 +2164,14 @@ var links = [
 ];
 var socials = [
     {
-        label: "Github",
-        icon: "GithubIcon",
-        href: "https://rhinofinance.gitbook.io/rhino-finance/",
-    },
-    {
         label: "Gitbook",
         icon: "GitbookIcon",
-        href: "https://rhinofinance.gitbook.io/rhino-finance/",
+        href: "https://cobraswap.gitbook.io/cobraswap/",
     },
     {
         label: "Medium",
         icon: "MediumIcon",
-        href: "https://rhinofinance.medium.com",
+        href: "https://cobra-swap.medium.com",
     },
     {
         label: "Telegram",
@@ -2184,14 +2179,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/rhino_finance",
+                href: "https://t.me/cobraswapbsc",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/rhino_defi",
+        href: "https://twitter.com/cobra_swap",
     },
 ];
 var MENU_HEIGHT = 64;
