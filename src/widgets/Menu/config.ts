@@ -183,7 +183,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/cobra_swap",
+    href: "https://twitter.com/CobraSwap_BSC",
   },
 ];
 
