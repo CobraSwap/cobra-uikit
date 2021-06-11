@@ -2171,7 +2171,7 @@ var socials = [
     {
         label: "Medium",
         icon: "MediumIcon",
-        href: "https://cobra-swap.medium.com",
+        href: "https://cobraswapbsc.medium.com/",
     },
     {
         label: "Telegram",
